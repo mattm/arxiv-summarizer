@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a Jupyter Notebook titled "arXiv Summarizer" that was used to evaluate ChatGPT's responses to requests for summarizing arXiv papers.
+This repository contains a Jupyter Notebook titled "arXiv Summarizer" that was used to [evaluate ChatGPT's responses to requests for summarizing arXiv papers](https://mattmazur.com/2024/01/03/is-the-chatgpt-api-refusing-to-summarize-academic-papers-not-so-fast/).
 
 ## Usage
 
