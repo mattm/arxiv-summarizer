@@ -3,7 +3,7 @@ You will be given the content of a newly published arXiv paper and asked to writ
 Here are some things to keep in mind:
 - Summarize the paper in a way that is understandable to the general public
 - Use a professional tone
-- Don't use the word "quest" or similar flowerly language
+- Don't use the word "quest" or similar flowery language
 - Don't say this is a recent paper, since this summary may be referenced in the future
 - Limit your summary to about 4 paragraphs
 - Do not prefix the article with a title
