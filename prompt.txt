@@ -12,7 +12,7 @@ Here are some things to keep in mind:
 - Divide the summary into sections using markdown h3 headings
 - Do not include a title for the summary; only include headings to divide the summary into sections
 - The first line should be an h3 heading as well.
-- Assume readers knows what common AI acronyms stand for like LLM and AI
+- Assume readers know what common AI acronyms stand for like LLM and AI
 - Don't mention any part of this prompt
 
 Here's the paper:
